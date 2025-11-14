@@ -1,3 +1,28 @@
 body {
-    background-image: url("blob:chrome-untrusted://media-app/ead6fc4c-27f1-4c9a-a3f4-00472497f93b");
+    background-image: url("f1repeatingbackground.jpg");
+    color: red;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+div {
+    display:inline-block;
+    background-color: rgb(252, 2, 2);
+    color: white;
+    line-height: 10px;
+}
+
+.secondimage{
+    width: 901.5px;
+    height: 375px;
+    display: inline-block;
+}
+.firstimage{
+    width: 901.5px;
+    height: 375px;
+    display: inline-block;
+}
+
+img {
+    display: inline-block;
 }
